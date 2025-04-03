@@ -1,17 +1,13 @@
 <h1 align="center">Hi, I'm Prem 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=FF0000&center=true&width=600&lines=🚀+Machine+Learning;🔥+Full+Stack+Development;🎨+UI/UX+Design" alt="Typing Animation" />
+</p>
+
+
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </div>
-
-
-<div align="center">
-  <h3>
-    <span style="color: red; animation: blink 1.5s infinite;">Machine Learning</span> |
-    <span style="color: black; animation: blink 1.5s infinite;">Full Stack Development</span> |
-    <span style="color: red; animation: blink 1.5s infinite;">UI/UX Design</span>
-  </h3>
-</div>
-
 
 ---
 
