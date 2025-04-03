@@ -68,6 +68,10 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=premwizard&bg_color=000000&color=ffffff&line=ff0000&point=00ffcc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=premwizard&label=Profile%20Views&color=white&style=flat" alt="Profile Views" />
+</p>
+---
 
 ### 🔥 My Open Source Contributions  
 - 🌟 **[Quick Notes App](https://github.com/premwizard/quick-notes-app)** (React + Express + MongoDB)  
@@ -85,7 +89,3 @@
 ---
 
 🚀 **Let's build something amazing together!** 🚀
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=red&style=flat" alt="Profile Views" />
-</p>
