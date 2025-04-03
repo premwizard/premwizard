@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Prem 👋</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF0000&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Full+Stack+Developer;UI%2FUX+Designer" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </div>
+
+### 🚀 Machine Learning | Full Stack Development | UI/UX Design
+
 ---
 
 ### 💡 About Me  
