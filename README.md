@@ -3,7 +3,20 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </div>
 
-### 🚀 Machine Learning | Full Stack Development | UI/UX Design
+
+<div align="center">
+  <h3>
+    <span style="color: red; animation: blink 1.5s infinite;">Machine Learning</span> |
+    <span style="color: black; animation: blink 1.5s infinite;">Full Stack Development</span> |
+    <span style="color: red; animation: blink 1.5s infinite;">UI/UX Design</span>
+  </h3>
+</div>
+
+<style>
+@keyframes blink {
+  50% { opacity: 0; }
+}
+</style>
 
 ---
 
