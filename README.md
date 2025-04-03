@@ -41,6 +41,9 @@
 </p>
 
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/mprem5032?theme=dark&font=Salsa&ext=heatmap)
+
+---
 
 ### 🔥 My Open Source Contributions  
 - 🌟 **[Quick Notes App](https://github.com/premwizard/quick-notes-app)** (React + Express + MongoDB)  
