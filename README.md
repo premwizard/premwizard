@@ -13,8 +13,8 @@
 
 ### 🔥 My Tech Stack  
 💻 **Programming Languages**  
-<img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+<img width="50" height="50"  alt="Python" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<img width="50" height="50" alt="JavaScript" src="https://img.icons8.com/ios-filled/50/javascript.png" alt="javascript"/>
 
 🖥️ **Frontend**  
 ![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
