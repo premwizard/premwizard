@@ -10,6 +10,10 @@
 🔹 Aiming for **FAANG-level opportunities** .  
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=33FF33&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;AI%2FML+Explorer;Open+Source+Contributor" />
+</p>
+---
 
 ### 🔥 My Tech Stack  
 💻 **Programming Languages**  
