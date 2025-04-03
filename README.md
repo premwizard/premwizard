@@ -7,7 +7,7 @@
 🔹 **3rd-year Computer Science Student** passionate about **Full Stack Development, UI/UX Design, and Machine Learning**.  
 🔹 Currently working on a **Next-Gen Agriculture App** with AI & IoT.  
 🔹 Love solving **DSA problems in Python** and building scalable web applications.  
-🔹 Aiming for **FAANG-level opportunities** 💰.  
+🔹 Aiming for **FAANG-level opportunities** .  
 
 ---
 
@@ -17,21 +17,31 @@
 <img width="50" height="50" alt="JavaScript" src="https://img.icons8.com/ios-filled/50/javascript.png" alt="javascript"/>
 
 🖥️ **Frontend**  
-![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwind-css)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+<img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/stickers/100/css3.png" alt="css3"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
+<img width="50" height="50" src="https://img.icons8.com/ios-glyphs/30/react.png" alt="react"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/bootstrap.png" alt="bootstrap"/>
 
 ⚙️ **Backend & Databases**  
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-333?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
+<img width="50" height="50" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+<img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
+<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo"/>
+<img width="50" height="50" src="https://img.icons8.com/arcade/64/sql.png" alt="sql"/>
+<img width="50" height="50" src="https://img.icons8.com/ios/50/flask.png" alt="flask"/>
+<img width="50" height="50" src="https://img.icons8.com/ios/50/django.png" alt="django"/>
 
 📡 **Other Tools & Tech**  
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
+<img width="50" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/figma.png" alt="figma"/>
+<img width="50" height="50" src="https://img.icons8.com/ios/50/visual-studio.png" alt="visual-studio"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/ios/50/tableau-software.png" alt="tableau-software"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/adobe-logo.png" alt="adobe-logo"/>
 
 ---
 
