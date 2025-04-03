@@ -53,6 +53,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/premwizard)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/m-prem/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://beacons.ai/m_prem)
+[![X](https://img.shields.io/badge/X-Profile-black?style=flat&logo=x)]([https://twitter.com/your-profile](https://x.com/MPrem2222))
 
 ---
 
