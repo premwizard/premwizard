@@ -12,11 +12,6 @@
   </h3>
 </div>
 
-<style>
-@keyframes blink {
-  50% { opacity: 0; }
-}
-</style>
 
 ---
 
