@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Prem 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | ML Enthusiast | UI/UX Designer</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF0000&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Full+Stack+Developer;UI%2FUX+Designer" />
+</p>
 ---
 
 ### 💡 About Me  
@@ -9,10 +10,6 @@
 🔹 Love solving **DSA problems in Python** and building scalable web applications.  
 🔹 Aiming for **FAANG-level opportunities** .  
 
----
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=33FF33&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;AI%2FML+Explorer;Open+Source+Contributor" />
-</p>
 ---
 
 ### 🔥 My Tech Stack  
