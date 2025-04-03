@@ -13,7 +13,7 @@
 
 ### 🔥 My Tech Stack  
 💻 **Programming Languages**  
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow)
+<img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 
 🖥️ **Frontend**  
