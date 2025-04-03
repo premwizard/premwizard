@@ -69,10 +69,10 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=premwizard&label=Profile%20Views&color=white&style=flat" alt="Profile Views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
----
 
+---
 ### 🔥 My Open Source Contributions  
 - 🌟 **[Quick Notes App](https://github.com/premwizard/quick-notes-app)** (React + Express + MongoDB)  
 - 🚀 **[JavaScript Concepts](https://github.com/premwizard/JAVA-SCRIPT-Concepts)** (JS Mastery Collection)  
