@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prem 👋</h1>
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF0000&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Full+Stack+Developer;UI%2FUX+Designer" />
-</p>
+</div>
 ---
 
 ### 💡 About Me  
@@ -76,9 +76,3 @@
 ---
 
 🚀 **Let's build something amazing together!** 🚀
-
-
-## 🌌 GitHub Skyline  
-<p align="center">
-  <img src="https://github.com/premwizard/skyline.png" alt="GitHub Skyline" />
-</p>
