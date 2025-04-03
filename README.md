@@ -85,3 +85,7 @@
 ---
 
 🚀 **Let's build something amazing together!** 🚀
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=red&style=flat" alt="Profile Views" />
+</p>
