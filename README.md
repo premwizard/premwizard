@@ -13,11 +13,12 @@
 
 ---
 
-### 💡 About Me  
-🔹 **3rd-year Computer Science Student** passionate about **Full Stack Development, UI/UX Design, and Machine Learning**.  
-🔹 Currently working on a **Next-Gen Agriculture App** with AI & IoT.  
-🔹 Love solving **DSA problems in Python** and building scalable web applications.  
-🔹 Aiming for **FAANG-level opportunities** .  
+> 💡 **About Me**  
+
+> 🔹 **3rd-year Computer Science Student** passionate about **Full Stack Development, UI/UX Design, and Machine Learning**.  
+> 🔹 Currently working on a **Next-Gen Agriculture App** with AI & IoT.  
+> 🔹 Love solving **DSA problems in Python** and building scalable web applications.  
+> 🔹 Aiming for **FAANG-level opportunities** .
 
 ---
 
