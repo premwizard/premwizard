@@ -74,16 +74,7 @@
 - 🌱 **[ML Plant Disease Detection](https://github.com/premwizard/plant-disease-detection)** (Machine Learning with Python)  
 
 ---
-
-### 📢 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/premwizard)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/m-prem/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://beacons.ai/m_prem)
-[![X](https://img.shields.io/badge/X-Profile-black?style=flat&logo=x)]([https://twitter.com/your-profile](https://x.com/MPrem2222))
-
 ###🌐 Let's Connect
-I'm always up for collaborating, learning, or just chatting about tech, design, or startups!
-
 <p align="center"> <a href="https://github.com/premwizard"> <img src="https://img.shields.io/badge/GitHub-@premwizard-181717?style=for-the-badge&logo=github" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/m-prem/"> <img src="https://img.shields.io/badge/LinkedIn-M. Prem-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"> </a> <a href="https://beacons.ai/m_prem"> <img src="https://img.shields.io/badge/Portfolio-Beacons-green?style=for-the-badge&logo=google-chrome" alt="Portfolio"> </a> <a href="https://x.com/MPrem2222"> <img src="https://img.shields.io/badge/X-@MPrem2222-000000?style=for-the-badge&logo=x" alt="X / Twitter"> </a> </p>
 ---
 
