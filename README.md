@@ -82,9 +82,3 @@
 
 🚀 **Let's build something amazing together!** 🚀
 
-
-![Build Status](https://img.shields.io/github/workflow/status/username/repo/Node.js%20CI)
-![Last Commit](https://img.shields.io/github/last-commit/username/repo)
-![Issues](https://img.shields.io/github/issues/username/repo)
-![License](https://img.shields.io/github/license/username/repo)
-
