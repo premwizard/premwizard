@@ -13,18 +13,16 @@
 
 ---
 
- 💡 **About Me**  
+ ## 💡 About Me
 
-<div style="font-size: 1.1rem; line-height: 1.6;">
-🔹 <strong>3rd-year Computer Science Student</strong> passionate about <span style="color:#4F46E5;"><strong>Full Stack Development</strong></span>, <span style="color:#10B981;"><strong>UI/UX Design</strong></span>, and <span style="color:#F59E0B;"><strong>Machine Learning</strong></span>.
-<br>
-🔹 Currently building a <strong>Next-Gen Agriculture App</strong> powered by <span style="color:#6366F1;">AI</span> & <span style="color:#22D3EE;">IoT</span>.
-<br>
-🔹 Love solving <strong>DSA problems</strong> using <span style="color:#EF4444;">Python</span> and crafting <strong>scalable web apps</strong>.
-<br>
-🔹 Dreaming big & working hard to reach <strong style="color:#8B5CF6;">FAANG-level roles</strong>.
+🎓 **3rd-Year Computer Science Student**  
+💻 Passionate about **Full Stack Development**, **UI/UX Design**, and **Machine Learning**
 
-</div>
+🌱 Currently building a **Next-Gen Agriculture App** with **AI** & **IoT**  
+🐍 Love solving **DSA problems in Python** and crafting **scalable web applications**
+
+🚀 Aiming for **FAANG-level opportunities**  
+📈 Focused on writing clean, efficient code & building meaningful tech  
 
 ---
 
