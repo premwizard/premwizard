@@ -6,7 +6,7 @@
 
 
 
-<img src="your-repo-link/male-coder.gif" height="250"/>
+[![Male Coder](https://assets8.lottiefiles.com/private_files/lf30_editor_t92py2kc.json)](https://lottiefiles.com/animations/developer-working-on-laptop-coding-H68sWZ4Tb0)
 
 ---
 
