@@ -6,9 +6,8 @@
 
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l1J9zpqmbsdUGpjf2/giphy.gif" width="500" />
-</div>
+<img src="https://lottie.host/93d7e2d2-d801-49cd-8a58-98ad9f2f90e6/2yr3DcHh8y.json" alt="Coder" height="300"/>
+
 
 ---
 
