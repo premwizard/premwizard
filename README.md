@@ -6,9 +6,9 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" height="200" alt="Male Coder"/>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="200" alt="Female Coder"/>
+  <img src="your-repo-name/coder.gif" height="300" alt="Coder Animation"/>
 </p>
+
 
 ---
 
