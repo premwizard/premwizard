@@ -5,9 +5,8 @@
 </p>
 
 
-<p align="center">
-  <img src="https://lottie.host/embed/6376d6bf-db01-4e1b-b950-3e38bc479495/PYr2i5eKcp.lottie" height="300" alt="Coder Animation"/>
-</p>
+![Male Coder](https://example.com/path/to/male-coder-animation.gif)
+
 ---
 
  ## 💡 About Me
