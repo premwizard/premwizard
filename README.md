@@ -5,9 +5,9 @@
 </p>
 
 
-<script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
-<dotlottie-player src="https://lottie.host/6376d6bf-db01-4e1b-b950-3e38bc479495/PYr2i5eKcp.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
-
+<p align="center">
+  <img src="https://lottie.host/embed/6376d6bf-db01-4e1b-b950-3e38bc479495/PYr2i5eKcp.lottie" height="300" alt="Coder Animation"/>
+</p>
 ---
 
  ## 💡 About Me
