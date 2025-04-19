@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Prem 👋</h1>
-
+<h1 align="center">Hi, I'm Prem 👋
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=FFFFFF&center=true&width=600&lines=ML+Enthusiast;Full+Stack+Developer;UI/UX+Designer" alt="Typing Animation" />
 </p>
