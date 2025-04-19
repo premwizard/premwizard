@@ -6,8 +6,7 @@
 
 
 
-<iframe src="https://lottie.host/embed/3582f1e5-95cd-42a8-bb87-b6c1c15e69c8/RiN7U9Lmsi.json" style="width:300px; height:300px;" frameborder="0"></iframe>
-
+<img src="your-repo-link/male-coder.gif" height="250"/>
 
 ---
 
