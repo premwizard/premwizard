@@ -5,9 +5,10 @@
 </p>
 
 
-
-[![Male Coder](https://assets8.lottiefiles.com/private_files/lf30_editor_t92py2kc.json)](https://lottiefiles.com/animations/developer-working-on-laptop-coding-H68sWZ4Tb0)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" height="200"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="200"/>
+</p>
 ---
 
  ## 💡 About Me
