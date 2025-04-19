@@ -4,12 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=FFFFFF&center=true&width=600&lines=ML+Enthusiast;Full+Stack+Developer;UI/UX+Designer" alt="Typing Animation" />
 </p>
 
-
 <div align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="500" />
 </div>
-
-
 ---
 
  ## 💡 About Me
