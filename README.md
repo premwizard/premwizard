@@ -27,35 +27,54 @@
 
 ### 🔥 My Tech Stack  
 💻 **Programming Languages**  
-<img width="50" height="50"  alt="Python" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-<img width="50" height="50" alt="JavaScript" src="https://img.icons8.com/ios-filled/50/javascript.png" alt="javascript"/>
+<p align="left">
+<a>
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgFill=3776AB" alt="Python" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgFill=F7DF1E" alt="JavaScript" />
+</a>
+
+</p>
 
 🖥️ **Frontend**  
-<img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/stickers/100/css3.png" alt="css3"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
-<img width="50" height="50" src="https://img.icons8.com/ios-glyphs/30/react.png" alt="react"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/bootstrap.png" alt="bootstrap"/>
+<p align="left">
+<a>
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgFill=E34F26" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgFill=1572B6" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgFill=38BDF8" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgFill=15d8fe" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgFill=7952B3" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vite.js&svgFill=7952B3" />
+</a>
+</p>
+
+
 
 ⚙️ **Backend & Databases**  
-<img width="50" height="50" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-<img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
-<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo"/>
-<img width="50" height="50" src="https://img.icons8.com/arcade/64/sql.png" alt="sql"/>
-<img width="50" height="50" src="https://img.icons8.com/ios/50/flask.png" alt="flask"/>
-<img width="50" height="50" src="https://img.icons8.com/ios/50/django.png" alt="django"/>
+<p align="left">
+<a>
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgFill=3C873A" alt="Node.js" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgFill=092E20" alt="Django" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flask&svgFill=000000" alt="Flask" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgFill=47A248" alt="MongoDB" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgFill=00758F" alt="MySQL" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&svgFill=7952B3" alt="Express.js">
+</a>
+</p>
+
+
 
 📡 **Other Tools & Tech**  
-<img width="50" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/figma.png" alt="figma"/>
-<img width="50" height="50" src="https://img.icons8.com/ios/50/visual-studio.png" alt="visual-studio"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/ios/50/tableau-software.png" alt="tableau-software"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/adobe-logo.png" alt="adobe-logo"/>
+<a>
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman&svgFill=FF6C37" alt="Postman" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazonaws&svgFill=FF9900" alt="AWS" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgFill=F24E1E" alt="Figma" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=visualstudio&svgFill=007ACC" alt="VS Code" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=pycharm&svgFill=519ABA" alt="PyCharm" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tableau&animation=spin&svgFill=E97627" alt="Tableau" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=powerbi&svgFill=F2C811" alt="Power BI" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=canva&svgFill=00C4CC" alt="Canva" />
+</a>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 
