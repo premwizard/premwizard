@@ -67,12 +67,15 @@
 <a>
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman&svgFill=FF6C37" alt="Postman" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazonaws&svgFill=FF9900" alt="AWS" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgFill=F05032" alt="Git" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgFill=F24E1E" alt="Figma" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=visualstudio&svgFill=007ACC" alt="VS Code" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=pycharm&svgFill=519ABA" alt="PyCharm" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tableau&animation=spin&svgFill=E97627" alt="Tableau" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=powerbi&svgFill=F2C811" alt="Power BI" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=canva&svgFill=00C4CC" alt="Canva" />
+</a>
+
 </a>
 
 
