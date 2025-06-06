@@ -24,7 +24,6 @@
 📈 Focused on writing clean, efficient code & building meaningful tech  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
-<br><br>
 
 ### 🔥 My Tech Stack  
 💻 **Programming Languages**  
@@ -59,7 +58,6 @@
 <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/adobe-logo.png" alt="adobe-logo"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
-<br><br>
 
 ### 📊 GitHub Stats  
 <p align="center">
@@ -67,17 +65,21 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
-<br><br>
 
+### Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mprem5032?theme=dark&font=Noto%20Sans%20Tai%20Tham&ext=heatmap)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
-<br><br>
 
+### Leetcode Badges
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=mprem5032&theme=black" alt="LeetCode Badges" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
+
+### Git Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=premwizard&bg_color=000000&color=ffffff&line=ff0000&point=00ffcc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
-<br><br>
 
 ### 🔥 My Open Source Contributions  
 - 🌟 **[Quick Notes App](https://github.com/premwizard/quick-notes-app)** (React + Express + MongoDB)  
@@ -85,13 +87,11 @@
 - 🌱 **[ML Plant Disease Detection](https://github.com/premwizard/plant-disease-detection)** (Machine Learning with Python)  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
-<br><br>
 
 ### 🌐 Let's Connect
 <p align="center"> <a href="https://github.com/premwizard"> <img src="https://img.shields.io/badge/GitHub-@premwizard-181717?style=for-the-badge&logo=github" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/m-prem/"> <img src="https://img.shields.io/badge/LinkedIn-M. Prem-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"> </a> <a href="https://beacons.ai/m_prem"> <img src="https://img.shields.io/badge/Portfolio-Beacons-green?style=for-the-badge&logo=google-chrome" alt="Portfolio"> </a> <a href="https://x.com/MPrem2222"> <img src="https://img.shields.io/badge/X-@MPrem2222-000000?style=for-the-badge&logo=x" alt="X / Twitter"> </a> </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
-<br><br>
 
 🚀 **Let's build something amazing together!** 🚀
 
