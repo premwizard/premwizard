@@ -60,9 +60,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=premwizard&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=premwizard&theme=black-ice" alt="premwizard's Streak Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=premwizard&langs_count=10&show_icons=true&locale=en&layout=compact&theme=black-ice" alt="premwizard's Top Languages" height="192px" width="500px"/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 
