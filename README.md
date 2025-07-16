@@ -43,7 +43,6 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgFill=38BDF8" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgFill=15d8fe" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgFill=7952B3" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vite.js&svgFill=7952B3" />
 </a>
 </p>
 
@@ -57,6 +56,7 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flask&svgFill=000000" alt="Flask" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgFill=47A248" alt="MongoDB" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgFill=00758F" alt="MySQL" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Firebase&svgFill=7952B3" alt="FireBase">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&svgFill=7952B3" alt="Express.js">
 </a>
 </p>
