@@ -14,8 +14,8 @@
 
  ## 💡 About Me 
 
-🎓 **3rd-Year Computer Science Student**  
-💻 Passionate about **Full Stack Development**, **UI/UX Design**, and **Machine Learning**
+🎓 **Final Year Computer Science Student**  
+💻 Passionate about **Full Stack Development**, **Machine Learning**, and **UI/UX Design**
 
 🌱 Currently building a **Next-Gen Agriculture App** with **AI** & **IoT**  
 🐍 Love solving **DSA problems in Python** and crafting **scalable web applications**
