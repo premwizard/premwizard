@@ -14,14 +14,19 @@
 
  ## 💡 About Me 
 
-🎓 **Final Year Computer Science Student**  
-💻 Passionate about **Full Stack Development**, **Machine Learning**, and **UI/UX Design**
 
-🌱 Currently building a **Next-Gen Agriculture App** with **AI** & **IoT**  
-🐍 Love solving **DSA problems in Python** and crafting **scalable web applications**
+ <p className="text-justify">
+              Hi, I'm <strong className="text-primary font-medium">Prem M</strong>, a final-year B.E. Computer Science and Technology student at SNS College of Engineering. I work as an <strong className="text-primary font-medium">AI Product Engineer</strong> with a strong foundation in <strong className="text-primary font-medium">full-stack development</strong> and <strong className="text-primary font-medium">UI/UX design</strong>, focused on building scalable and impactful digital solutions.
+            </p>
+            <p className="text-justify">
+             
+I enjoy creating end-to-end applications that combine intelligent systems with clean, user-centered design. My work revolves around developing AI-powered products, especially in domains like healthcare and agriculture, where technology can solve real-world problems and improve lives.
+</p>
 
-🚀 Aiming for **FAANG-level opportunities**  
-📈 Focused on writing clean, efficient code & building meaningful tech  
+<p align="justify">
+I’m particularly interested in building systems using LLMs, RAG, and modern full-stack technologies to create smart, efficient, and accessible solutions. My goal is to not just build applications, but to create products that are meaningful, practical, and ready for real-world use.
+</p>
+      
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 
