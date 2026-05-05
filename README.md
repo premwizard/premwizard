@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prem 👋
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=FFFFFF&center=true&width=600&lines=AI+Engineer-Healthcare;Full+Stack+Developer;UI/UX+Designer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=FFFFFF&center=true&width=600&lines=AI+Product+Engineer;Full+Stack+Developer;UI/UX+Designer" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -112,9 +112,9 @@ I’m particularly interested in building systems using LLMs, RAG, and modern fu
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 
 ### 🔥 My Open Source Contributions  
-- 🌟 **[Quick Notes App](https://github.com/premwizard/quick-notes-app)** (React + Express + MongoDB)  
-- 🚀 **[JavaScript Concepts](https://github.com/premwizard/JAVA-SCRIPT-Concepts)** (JS Mastery Collection)  
-- 🌱 **[ML Plant Disease Detection](https://github.com/premwizard/plant-disease-detection)** (Machine Learning with Python)  
+-  **[AI Dietitian](https://github.com/premwizard/AI-Dietitian-project)**   
+-  **[Music Therapy AI](https://github.com/premwizard/Music-Therapy-AI)**   
+-  **[Delivery Admin Dashboard](https://github.com/premwizard/DeliverOps)**  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 
