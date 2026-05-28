@@ -12,21 +12,39 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 <br><br>
 
- ## 💡 About Me 
+<h2>💡 About Me</h2>
 
-
- <p className="text-justify">
-              Hi, I'm <strong className="text-primary font-medium">Prem M</strong>, a final-year B.E. Computer Science and Technology student at SNS College of Engineering. I work as an <strong className="text-primary font-medium">AI Product Engineer</strong> with a strong foundation in <strong className="text-primary font-medium">full-stack development</strong> and <strong className="text-primary font-medium">UI/UX design</strong>, focused on building scalable and impactful digital solutions.
-            </p>
-            <p className="text-justify">
-             
-I enjoy creating end-to-end applications that combine intelligent systems with clean, user-centered design. My work revolves around developing AI-powered products, especially in domains like healthcare and agriculture, where technology can solve real-world problems and improve lives.
+<p align = "justify">
+  Hi, I'm <strong >Prem M</strong>, a Computer Science and Technology student and an aspiring
+  <strong>
+    AI Product Engineer
+  </strong>
+  with a strong foundation in
+  <strong>full-stack development</strong> and
+  <strong>UI/UX design</strong>.
+  I focus on building scalable, intelligent, and user-centric digital products.
 </p>
 
-<p align="justify">
-I’m particularly interested in building systems using LLMs, RAG, and modern full-stack technologies to create smart, efficient, and accessible solutions. My goal is to not just build applications, but to create products that are meaningful, practical, and ready for real-world use.
+<p>
+  I enjoy designing and developing end-to-end applications that combine
+  <strong >intelligent systems</strong> with clean and intuitive user experiences.
+  My work is centered around building AI-powered solutions, especially in impactful domains especially in
+  <strong >healthcare</strong>,
+  where technology can solve real-world problems at scale.
 </p>
-      
+
+<p>
+  I'm particularly interested in working with
+  <strong>Large Language Models (LLMs)</strong>,
+  <strong>RAG-based systems</strong>,
+  and modern full-stack technologies to build
+  <span>
+    smart, efficient, and production-ready applications
+  </span>.
+  My goal is to create not just applications, but meaningful products that are practical, impactful, and ready for real-world deployment.
+</p>
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 
