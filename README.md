@@ -20,7 +20,7 @@
     AI Product Engineer
   </strong>
   with a strong foundation in
-  <strong>full-stack development</strong> and
+  <strong>Full-stack development</strong> and
   <strong>UI/UX design</strong>.
   I focus on building scalable, intelligent, and user-centric digital products.
 </p>
