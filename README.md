@@ -80,6 +80,7 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgFill=092E20" alt="Django" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flask&svgFill=000000" alt="Flask" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgFill=47A248" alt="MongoDB" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgFill=47A248" alt="MongoDB" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgFill=00758F" alt="MySQL" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Firebase&svgFill=7952B3" alt="FireBase">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&svgFill=7952B3" alt="Express.js">
