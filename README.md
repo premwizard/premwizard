@@ -132,10 +132,31 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 
-### 🔥 My Open Source Contributions  
--  **[MEDISYNC360](https://github.com/premwizard/Medisync360)**   
--  **[TASK REPORTER AI](https://github.com/premwizard/Task-Reporter-AI-)**   
--  **[TEXT TO DESIGN AI](https://github.com/premwizard/Text-to-Design)**  
+
+
+
+
+<details open> 
+  <summary><h2>📘 My Top Open Source Contributions</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  
+<p align="left">
+  <a href="https://github.com/premwizard/Medisync360">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=premwizard&repo=Medisync360&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Medisync360">
+  </a>
+
+  <a href="https://github.com/premwizard/Task-Reporter-AI-">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=premwizard&repo=Task-Reporter-AI-&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Task Reporter AI">
+  </a>
+
+  <a href="https://github.com/premwizard/Text-to-Design">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=premwizard&repo=Text-to-Design&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Text to Design AI">
+  </a>
+</p>
+</details>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 
