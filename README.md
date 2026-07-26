@@ -133,9 +133,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 
 ### 🔥 My Open Source Contributions  
--  **[Medisync360](https://github.com/premwizard/Medisync360)**   
--  **[Music Therapy AI](https://github.com/premwizard/Music-Therapy-AI)**   
--  **[Delivery Admin Dashboard](https://github.com/premwizard/DeliverOps)**  
+-  **[MEDISYNC360](https://github.com/premwizard/Medisync360)**   
+-  **[TASK REPORTER AI](https://github.com/premwizard/Task-Reporter-AI-)**   
+-  **[TEXT TO DESIGN AI](https://github.com/premwizard/Text-to-Design)**  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 
