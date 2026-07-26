@@ -186,6 +186,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=premwizard&rank=SECRET,SSS,SS,S,AAA,AA&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
+
 <p align="center">
   Let's build something amazing together!
 </p>
