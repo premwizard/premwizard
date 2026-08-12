@@ -66,6 +66,7 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgFill=1572B6" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgFill=38BDF8" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgFill=15d8fe" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgFill=E34F26" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&animation=spin&svgFill=15d8fe" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgFill=7952B3" />
 </a>
