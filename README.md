@@ -15,7 +15,7 @@
 <h2>💡 About Me</h2>
 
 <p align = "justify">
-  Hi, I'm <strong >Prem M</strong>, a Computer Science and Technology student and an aspiring
+  Hi, I'm <strong >Prem M</strong>, a Computer Science and Technology graduate and an aspiring
   <strong>
     AI Engineer
   </strong>
