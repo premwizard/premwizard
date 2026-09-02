@@ -37,7 +37,7 @@
   I'm particularly interested in working with
   <strong>Large Language Models (LLMs)</strong>,
   <strong>RAG-based systems</strong>,
-  and modern full-stack technologies to build
+  and <strong>modern Full-stack technologies</strong> to build
   <span>
     smart, efficient, and production-ready applications
   </span>.
