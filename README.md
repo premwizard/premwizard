@@ -35,6 +35,7 @@
 
 <p>
   I'm particularly interested in working with
+  <strong>Gen AI,</strong>
   <strong>Large Language Models (LLMs)</strong>,
   <strong>RAG-based systems</strong>,
   and <strong>modern Full-stack technologies</strong> to build
